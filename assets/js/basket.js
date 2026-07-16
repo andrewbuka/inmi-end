@@ -8,7 +8,15 @@ const basketFull = document.querySelector('.tttt')
 const subtotalSum = document.querySelector('.subtotal-sum')
 const totalSum = document.querySelector('.total-sum')
 
-const formatBasketSum = value => Number(value) || 0
+const formatBasketSum = value => {
+    const number = Number(value)
+
+    if (!Number.isFinite(number)) {
+        return '0,00'
+    }
+
+    return number.toFixed(2).replace('.', ',')
+}
 
 const getSavedBasketOrder = () => {
     try {
@@ -107,7 +115,7 @@ const setBasket = (products) => {
         const ProdBox = DomHelper.createCountProdBox([preProdBox])
 
         // price
-        const price = DomHelper.createPrice(`${prod.price} BYN`)
+        const price = DomHelper.createPrice(`${formatBasketSum(prod.price)} BYN`)
         const priceBox = DomHelper.createPriceBox([price])
 
         // total
@@ -445,7 +453,7 @@ const renderCheckoutSummary = data => {
     const products = data.products.map(product => `
         <li>
             <span>${escapeCheckoutHtml(product.title)} × ${escapeCheckoutHtml(product.count)}</span>
-            <strong>${escapeCheckoutHtml(+product.price * +product.count)} BYN</strong>
+            <strong>${escapeCheckoutHtml(formatBasketSum(+product.price * +product.count))} BYN</strong>
         </li>
     `).join('')
 

@@ -113,13 +113,13 @@
 
                                 <div class="simplecheckout-cart-total" id="total_sub_total">
                                     <span><b>Стоимость товаров:</b></span>
-                                    <span class="simplecheckout-cart-total-value"><span class='subtotal-sum'>0.00</span> BYN</span>
+                                    <span class="simplecheckout-cart-total-value"><span class='subtotal-sum'>0,00</span> BYN</span>
                                     <span class="simplecheckout-cart-total-remove">
                                                                         </span>
                                 </div>
                                 <div class="simplecheckout-cart-total" id="total_total">
                                     <span><b>Всего:</b></span>
-                                    <span class="simplecheckout-cart-total-value"><span class='total-sum'> 0.00</span> BYN</span>
+                                    <span class="simplecheckout-cart-total-value"><span class='total-sum'>0,00</span> BYN</span>
                                     <span class="simplecheckout-cart-total-remove">
                                                                         </span>
                                 </div>
