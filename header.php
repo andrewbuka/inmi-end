@@ -35,6 +35,7 @@
 $inmi_current_template = basename( get_page_template() );
 $inmi_is_yur_page     = is_page( 'yur-page' ) || 'yur-page.php' === $inmi_current_template;
 $inmi_is_main_page    = ( is_front_page() || is_home() || is_page( 8 ) ) && ! $inmi_is_yur_page;
+$inmi_is_contacts     = is_page( 'contacts' ) || 'contacts.php' === $inmi_current_template;
 ?>
 <body id="home" class="inner-scroll">
 
@@ -79,7 +80,7 @@ $inmi_is_main_page    = ( is_front_page() || is_home() || is_page( 8 ) ) && ! $i
 							<?php endif; ?>
 							<a class="<?php echo $inmi_is_yur_page ? 'header-nav-active' : ''; ?>" href="http://inmi/yur-page/"><strong>Препараты для юр. лиц</strong></a>
 						</li>
-						<li><a href="<?php echo get_page_link(8); ?>#contacts">Контакты</a></li>
+						<li><a class="<?php echo $inmi_is_contacts ? 'header-nav-active' : ''; ?>" href="<?php echo esc_url( home_url( '/contacts/' ) ); ?>">Контакты</a></li>
 						<li><a target="_blank" href="https://mbio.bas-net.by/">Сайт Института</a></li>
 					</ul>
 				</nav>
