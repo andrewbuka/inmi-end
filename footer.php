@@ -32,7 +32,7 @@
 						<li><a href="<?php echo esc_url( get_page_link( 8 ) ); ?>">Главная</a></li>
 						<li><a href="<?php echo esc_url( get_page_link( 8 ) ); ?>#fiz-prod">Для физ. лиц</a></li>
 						<li><a href="http://inmi/yur-page/">Для юр. лиц</a></li>
-						<li><a href="<?php echo esc_url( get_page_link( 8 ) ); ?>#contacts">Контакты</a></li>
+						<li><a href="<?php echo esc_url( home_url( '/contacts/' ) ); ?>">Контакты</a></li>
 					</ul>
 				</div>
 
