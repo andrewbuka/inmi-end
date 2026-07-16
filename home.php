@@ -247,7 +247,7 @@
 						</article>
 
 						<article class="knowledge-card wow fadeInUp lazy" data-wow-duration=".8s" data-wow-delay=".28s">
-							<a class="knowledge-card-link" href="/stati/invertnaya-podkormka-dlya-pchel-apifil/" aria-label="Инвертная подкормка для пчёл с Апифилом">
+							<a class="knowledge-card-link" href="/news-about-bee/" aria-label="Инвертная подкормка для пчёл с Апифилом">
 								<span class="knowledge-card-icon"><i class="fa fa-pagelines" aria-hidden="true"></i></span>
 								<span class="knowledge-card-meta">Пчеловодство</span>
 								<h3>Инвертная подкормка</h3>

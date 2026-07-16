@@ -171,13 +171,14 @@
                     <a class="btn" href="/laksilm-yur-page/"><span>Карточка «Лаксил-М»</span></a>
                     <a class="btn" href="/laksilms-yur-page/"><span>Карточка «Лаксил-МС»</span></a>
                 </div>
-                <!-- <div class="seo-sidebar-card">
-                    <h2>Полезные материалы</h2>
+                <div class="seo-sidebar-card">
+                    <h2>Полезные переходы</h2>
                     <ul>
-                        <li><a href="/yur-page/">Раздел «Для юридических лиц»</a></li>
-                        <li><a href="/blog/tehnologiya-silosovaniya-kukuruzy-i-trav/">Технология силосования кукурузы и трав</a></li>
+                        <li><a href="/yur-page/">Продукция для сельского хозяйства</a></li>
+                        <li><a href="/#contacts">Контакты отдела продаж</a></li>
+                        <li><a href="/inmi-knowledge/">Другие материалы InMi-знаний</a></li>
                     </ul>
-                </div> -->
+                </div>
             </aside>
         </div>
     </div>

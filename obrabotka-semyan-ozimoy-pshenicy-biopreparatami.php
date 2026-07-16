@@ -154,13 +154,14 @@
                     <p>Микробный препарат для обработки семян и вегетирующих растений озимой пшеницы.</p>
                     <a class="btn" href="/gramisil-yur-page/"><span>Карточка товара</span></a>
                 </div>
-                <!-- <div class="seo-sidebar-card">
-                    <h2>Полезные материалы</h2>
+                <div class="seo-sidebar-card">
+                    <h2>Полезные переходы</h2>
                     <ul>
-                        <li><a href="/yur-page/#plants">Каталог микробных удобрений</a></li>
-                        <li><a href="/blog/kak-podgotovit-semena-k-posevu/">Как подготовить семена к посеву</a></li>
+                        <li><a href="/yur-page/">Продукция для сельского хозяйства</a></li>
+                        <li><a href="/#contacts">Контакты отдела продаж</a></li>
+                        <li><a href="/inmi-knowledge/">Другие материалы InMi-знаний</a></li>
                     </ul>
-                </div> -->
+                </div>
             </aside>
         </div>
     </div>

@@ -149,13 +149,14 @@
                     <p>Биоактиватор для коммунально-бытовых сточных вод и очистных сооружений.</p>
                     <a class="btn" href="/antoil-plus-page-org/"><span>Карточка товара</span></a>
                 </div>
-                <!-- <div class="seo-sidebar-card">
-                    <h2>Полезные материалы</h2>
+                <div class="seo-sidebar-card">
+                    <h2>Полезные переходы</h2>
                     <ul>
-                        <li><a href="<?php echo get_page_link(8); ?>#fiz-prod">Раздел «Для физических лиц»</a></li>
-                        <li><a href="/blog/kak-obsluzhivat-avtonomnuyu-kanalizaciyu/">Как обслуживать автономную канализацию</a></li>
+                        <li><a href="/yur-page/">Продукция для сельского хозяйства</a></li>
+                        <li><a href="/#contacts">Контакты отдела продаж</a></li>
+                        <li><a href="/inmi-knowledge/">Другие материалы InMi-знаний</a></li>
                     </ul>
-                </div> -->
+                </div>
             </aside>
         </div>
     </div>

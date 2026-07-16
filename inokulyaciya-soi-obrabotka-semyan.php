@@ -164,13 +164,14 @@
                     <p>Биоудобрение на основе <em>Bradyrhizobium japonicum</em> для повышения продуктивности сои.</p>
                     <a class="btn" href="/soariz-yur-page/"><span>Карточка товара</span></a>
                 </div>
-                <!-- <div class="seo-sidebar-card">
-                    <h2>Полезные материалы</h2>
+                <div class="seo-sidebar-card">
+                    <h2>Полезные переходы</h2>
                     <ul>
-                        <li><a href="/yur-page/">Каталог микробных удобрений</a></li>
-                        <li><a href="/blog/pitanie-soi-rol-fosfora-i-kaliya/">Питание сои: роль фосфора и калия</a></li>
+                        <li><a href="/yur-page/">Продукция для сельского хозяйства</a></li>
+                        <li><a href="/#contacts">Контакты отдела продаж</a></li>
+                        <li><a href="/inmi-knowledge/">Другие материалы InMi-знаний</a></li>
                     </ul>
-                </div> -->
+                </div>
             </aside>
         </div>
     </div>
