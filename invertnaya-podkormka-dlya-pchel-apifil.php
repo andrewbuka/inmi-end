@@ -158,7 +158,7 @@
                     <h2>Полезные переходы</h2>
                     <ul>
                         <li><a href="/yur-page/">Продукция для сельского хозяйства</a></li>
-                        <li><a href="/#contacts">Контакты отдела продаж</a></li>
+                        <li><a href="/contacts">Контакты отдела продаж</a></li>
                         <li><a href="/inmi-knowledge/">Другие материалы InMi-знаний</a></li>
                     </ul>
                 </div>
