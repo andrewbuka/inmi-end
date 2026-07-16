@@ -5036,3 +5036,16 @@
         padding: 58px 0 78px;
     }
 }
+
+/* Keep text/icons readable on buttons that turn green on hover */
+.fiz-product-card .in-basket-p__button:hover,
+.floating-actions .floating-cart:hover,
+.floating-actions .to-top:hover {
+    color: #fff;
+}
+
+.floating-actions .floating-cart:hover i,
+.floating-actions .to-top:hover i,
+.to-top:hover i {
+    color: #fff;
+}
