@@ -247,11 +247,11 @@
 						</article>
 
 						<article class="knowledge-card wow fadeInUp lazy" data-wow-duration=".8s" data-wow-delay=".28s">
-							<a class="knowledge-card-link" href="/news-about-soa/" aria-label="Инокуляция сои">
-								<span class="knowledge-card-icon"><i class="fa fa-circle-o" aria-hidden="true"></i></span>
-								<span class="knowledge-card-meta">Соя</span>
-								<h3>Эффективные клубеньки</h3>
-								<p>Зачем обрабатывать семена и как оценить результат инокуляции.</p>
+							<a class="knowledge-card-link" href="/stati/invertnaya-podkormka-dlya-pchel-apifil/" aria-label="Инвертная подкормка для пчёл с Апифилом">
+								<span class="knowledge-card-icon"><i class="fa fa-pagelines" aria-hidden="true"></i></span>
+								<span class="knowledge-card-meta">Пчеловодство</span>
+								<h3>Инвертная подкормка</h3>
+								<p>Как подготовить семьи к зимовке и главному медосбору с «Апифилом».</p>
 								<span class="knowledge-read-more">Читать материал <i class="fa fa-angle-right" aria-hidden="true"></i></span>
 							</a>
 						</article>
